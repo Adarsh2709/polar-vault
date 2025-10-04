@@ -1,4 +1,4 @@
-# Polar Vault - Survey Form Backend
+# Polar Vault - Survey Form
 
 A Node.js backend application for handling survey form submissions with MongoDB integration.
 
