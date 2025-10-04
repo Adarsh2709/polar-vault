@@ -1,5 +1,5 @@
 {
-  "name": "polar-vault-backend",
+  "name": "polar-vault",
   "version": "1.0.0",
   "description": "Backend for Polar Vault survey form submissions",
   "main": "server.js",
