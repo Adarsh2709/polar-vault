@@ -129,7 +129,14 @@ body {
 .cta-row { display: flex; gap: 16px; justify-content: flex-start; flex-wrap: wrap; }
 
 .product { padding: 64px 24px; border-top: 1px solid var(--line); }
-.product .content { max-width: 1100px; margin: 0 auto; display: grid; grid-template-columns: 1fr 1.1fr; gap: 40px; align-items: center; }
+.product .content { 
+  max-width: 1100px; 
+  margin: 0 auto; 
+  display: grid; 
+  grid-template-columns: 1fr 1.1fr; /* This creates the two columns */
+  gap: 40px; 
+  align-items: center; 
+}
 .product-media img {
   width: 100%; border-radius: var(--radius-lg);
   background: var(--card);

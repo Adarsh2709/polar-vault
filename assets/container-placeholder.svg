@@ -1,6 +1,0 @@
-<svg width="400" height="400" viewBox="0 0 400 400" fill="none" xmlns="http://www.w3.org/2000/svg">
-<rect width="400" height="400" fill="#F3F4F6"/>
-<rect x="50" y="50" width="300" height="300" fill="#E5E7EB" stroke="#D1D5DA" stroke-width="2"/>
-<rect x="75" y="75" width="250" height="250" fill="#FFFFFF" stroke="#2563eb" stroke-width="3"/>
-<text x="200" y="220" text-anchor="middle" fill="#2563eb" font-family="Arial" font-size="18" font-weight="bold">Polar Vault</text>
-</svg>
