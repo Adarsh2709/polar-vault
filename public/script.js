@@ -27,8 +27,8 @@ document.addEventListener('DOMContentLoaded', () => {
       };
       
       try {
-        // Submit to backend
-        const response = await fetch('/api/survey', {
+        // Submit to backend (Vercel serverless function)
+        const response = await fetch('/api/survey.js', {
           method: 'POST',
           headers: {
             'Content-Type': 'application/json',
